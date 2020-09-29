@@ -1,4 +1,4 @@
-# Machine-Learning---Coursera
+# Machine Learning - Coursera
 My programs for assignments from the machine learning course provided by Stanford University on Coursera.
 Skills I acquired from this course:
 - Gradient Descent and its optimizations
@@ -9,6 +9,7 @@ Skills I acquired from this course:
 - K-Means Clustering and Principal Component Analysis (Clustering and Dimensionality Reduction)
 - Collaborative Filtering and Anomaly Detection
 - Data Augmentation
+
 Applications I "made" in this course:
 - Spam Classifier
 - Anomaly Detector
